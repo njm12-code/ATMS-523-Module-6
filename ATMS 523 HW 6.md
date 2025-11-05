@@ -8,7 +8,7 @@ Submit this code as a pull request back to GitHub Classroom by the date and time
 
 Use the Storm Prediction Center tornado dataset https://www.spc.noaa.gov/wcm/data/1950-2021_actual_tornadoes.csv
 
-Also, use the ENSO, PDO, NAO, and AO dataframe 
+Also, use the ENSO, PDO, NAO, and AO dataframe from earlier module.
 
 ## Your assignment
 
