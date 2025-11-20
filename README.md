@@ -1,7 +1,7 @@
 # ATMS 523 - Module 6 Project
-Random Forest Prediction and Explainable AI for Monthly Tornado Counts  
-Author: Your Name  
-Date: MM/DD/YYYY
+Random Forest Prediction, Feature Engineering, and Explainable AI for Monthly Tornado Counts  
+Author: Nathan Makowski   
+Date: 11/19/2025
 
 ## Project Overview
 This project analyzes monthly tornado counts for selected Upper Midwest states and their relationship to large-scale climate indices. Random Forest regression and explainable AI tools (Permutation Importance and SHAP) are used to evaluate how well ENSO, PDO, NAO, and AO explain monthly tornado variability, and how seasonality (month of year) improves prediction skill.
